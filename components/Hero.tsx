@@ -1,6 +1,6 @@
 "use client"
 
-import { motion } from "framer-motion"
+import { motion } from "motion/react"
 import vedantImg from "@/components/src/vedant.png";
 import { NoiseBackground } from "@/components/ui/noise-background";
 
