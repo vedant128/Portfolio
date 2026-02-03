@@ -45,17 +45,15 @@ const skillCategories = [
         ],
     },
     {
-        title: "Blockchain & Web3",
+        title: "Graphic Design",
         icon: "⛓️",
         description: "Decentralized applications and smart contracts",
         color: "from-orange-500 to-yellow-500",
         skills: [
-            { name: "Solidity", level: 75, icon: "📜" },
-            { name: "Web3.js", level: 78, icon: "🌐" },
-            { name: "Ethereum", level: 80, icon: "💎" },
-            { name: "IPFS", level: 72, icon: "📦" },
-            { name: "MetaMask", level: 85, icon: "🦊" },
-            { name: "Smart Contracts", level: 75, icon: "📝" },
+            { name: "Canva", level: 75, icon: "💎" },
+            { name: "PhotoShop", level: 78, icon: "🌐" },
+            { name: "Figma", level: 80, icon: "📚" },
+            { name: "Corel Draw", level: 72, icon: "📦" },
         ],
     },
     {

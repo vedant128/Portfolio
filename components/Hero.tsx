@@ -18,7 +18,7 @@ export default function Hero() {
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
                     Hi, I'm  <span className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">Vedant Satish Gunjal</span>
                 </h1>
-                <p className="mt-3 md:mt-4 text-base md:text-lg text-gray-600">
+                <p className="mt-3 md:mt-4 text-base md:text-lg text-white-600">
                     • Full Stack Developer • Graphic Designer
                 </p>
 

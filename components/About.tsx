@@ -77,7 +77,7 @@ export default function About() {
                     About Me
                 </h2>
                 <p className="text-center text-base md:text-lg text-neutral-400 max-w-2xl mx-auto mb-8">
-                    I build modern, scalable web applications with clean UI and smooth animations.
+                    I’m a passionate Information Technology student with a strong interest in full-stack development and emerging technologies. I enjoy building real-world applications using modern tools and continuously improving my problem-solving skills.
                 </p>
                 {/* Stats Grid */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
@@ -85,7 +85,7 @@ export default function About() {
                         { value: "10+", label: "Projects Built" },
                         { value: "3+", label: "Years Experience" },
                         { value: "10+", label: "Technologies" },
-                        { value: "5+", label: "Leadership Roles" },
+                        { value: "2+", label: "Leadership Roles" },
                     ].map((item, idx) => (
                         <div
                             key={idx}
