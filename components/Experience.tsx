@@ -3,8 +3,8 @@ import { motion } from "motion/react";
 
 const experienceData = [
     {
-        title: "",
-        company: "",
+        title: "Machine Learning",
+        company: "NinjaBytes Technologies",
         type: "Internship",
         period: "2024 - Present",
         description: "Working on machine learning models and AI-powered solutions. Implementing deep learning algorithms and data analysis pipelines.",

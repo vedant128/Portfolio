@@ -106,8 +106,8 @@ export default function About() {
                     </h3>
                     <ul className="space-y-3 text-gray-300">
                         {[
-                            "Blockchain Social Media Platform",
-                            "AI-Powered Admin Panel",
+                            "React Native project",
+                            "Machine Learning project",
                             "Advanced Web3 Applications",
                         ].map((item, idx) => (
                             <li key={idx} className="flex items-center gap-3">

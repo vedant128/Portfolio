@@ -20,7 +20,7 @@ const projectsData = [
         description: "Full-featured e-commerce platform for buying and selling plants with cart, checkout, and order management.",
         category: "Full Stack",
         tech: ["React", "Node.js", "MongoDB", "Express"],
-        status: "Completed",
+        status: "In Progress",
         icon: "🌿",
         github: "#",
         live: "#",
