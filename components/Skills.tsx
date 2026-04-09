@@ -44,6 +44,17 @@ const skillCategories = [
         ],
     },
     {
+        title: "Cloud & DevOps",
+        icon: "☁️",
+        description: "Cloud services, deployment, and scalable infrastructure",
+        color: "from-blue-500 to-indigo-500",
+        skills: [
+            { name: "AWS", level: 70, icon: "☁️" },
+            { name: "Docker", level: 60, icon: "🐳" },
+            { name: "GitHub Actions", level: 65, icon: "⚙️" },
+        ],
+    },
+    {
         title: "Development Tools",
         icon: "🔧",
         description: "Version control and deployment platforms",
