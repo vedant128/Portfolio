@@ -23,27 +23,14 @@ const skillCategories = [
         color: "from-green-500 to-emerald-500",
         skills: [
             { name: "Node.js", level: 85, icon: "🟢" },
-            { name: "Python", level: 80, icon: "🐍" },
+            { name: "Express", level: 80, icon: "🗄️" },
             { name: "MongoDB", level: 82, icon: "🍃" },
             { name: "MySQL", level: 78, icon: "🐬" },
             { name: "Firebase", level: 88, icon: "🔥" },
             { name: "REST APIs", level: 85, icon: "🔗" },
         ],
     },
-    {
-        title: "Data Science & ML",
-        icon: "🧠",
-        description: "Machine learning and data analysis",
-        color: "from-purple-500 to-pink-500",
-        skills: [
-            { name: "Python", level: 80, icon: "🐍" },
-            { name: "TensorFlow", level: 75, icon: "🔶" },
-            { name: "Jupyter", level: 85, icon: "📓" },
-            { name: "NumPy", level: 82, icon: "🔢" },
-            { name: "Matplotlib", level: 78, icon: "📊" },
-            { name: "R", level: 70, icon: "📈" },
-        ],
-    },
+
     {
         title: "Graphic Design",
         icon: "⛓️",

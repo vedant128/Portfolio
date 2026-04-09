@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 const educationData = [
     {
         degree: "B.E. in Information Technology",
-        percentage: "Current CGPA: 8.73%",
+        percentage: "Current CGPA: 8.99%",
         institution: "SCOE (Sinhgad College of Engineering)",
         period: "Present",
         description: "Currently pursuing Bachelor's in Information Technology with focus on software development and modern technologies.",
@@ -21,7 +21,7 @@ const educationData = [
     {
         degree: "SSC (10th Standard)",
         percentage: "Percentage: 85.80%",
-        institution: "SAKEMS School",
+        institution: "SAKEM School",
         period: "Completed",
         description: "Completed secondary education with SSC board, building strong academic foundation.",
         icon: "📚",
